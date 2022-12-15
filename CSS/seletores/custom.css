@@ -1,0 +1,37 @@
+body {
+    background-color: #e8e8e8;
+    color: #2d49a6;
+}
+/*Seletor tipo*/
+h1{
+    color: green;
+}
+
+p{
+    color: green;
+}
+
+/*Seletor decedente*/
+p span{
+    color: black;
+}
+
+/*Seletoe pseudo-classe*/
+a:hover{
+    color: gold;
+}
+
+/*Seletor ID identificação única*/
+#menu{
+    color: blue;
+}
+
+#conteudo{
+    color: indigo;
+}
+.cont_destaq{
+    color: goldenrod;
+}
+.mais_acessado{
+    font-size: 23px;
+}
